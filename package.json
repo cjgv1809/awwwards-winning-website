@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:gh-pages": "vite build --base=/award-winning-website/",
     "lint": "eslint .",
     "preview": "vite preview",
     "test:e2e": "playwright test",
