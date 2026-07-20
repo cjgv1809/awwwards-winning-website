@@ -1,12 +1,12 @@
 {
-  "name": "awwwards-website",
+  "name": "awwwards-winning-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:gh-pages": "vite build --base=/award-winning-website/",
+    "build:gh-pages": "vite build --base=/awwwards-winning-website/",
     "lint": "eslint .",
     "preview": "vite preview",
     "test:e2e": "playwright test",
